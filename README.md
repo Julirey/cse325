@@ -1,26 +1,7 @@
-# Movie MVC App
+# Repository Introduction
 
-A simple Movie MVC app built with ASP.NET Core 
+This repository contains a collection of code I've made for the course CSE 325. 
 
-## Features
+## How to use this repository
 
-- List, create, edit, and delete movies.
-- Filter movies by genre or search by title.
-- Uses local SQL Server database.
-
-## How to Run
-
-1. Clone the repo:
-
-2. Restore dependencies:
-
-   ```bash
-   dotnet restore
-3. Run the app (Alternatively you can do Ctrl+f5):
-
-   ```bash
-   dotnet run
-
-## Accessing catalogue
-
-The movie catalogue is available at http://localhost:{PORT}/Movies
+Each branch contains a collection of code for a given assignment or class activity.
